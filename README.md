@@ -9,4 +9,4 @@ Demonstração (Preview)
 
 ### Tutorial
 Este código foi criado tendo como base o vídeo abaixo:
-Link: [https://youtu.be/OrtemuQ0Xy8](https://www.youtube.com/watch?v=OR8ySydmqLQ&list=PLSJ8Ib9ydVbWa0XateD5w_0JBW6Qe8R9R)
+- Link: [https://youtu.be/OrtemuQ0Xy8](https://www.youtube.com/watch?v=OR8ySydmqLQ&list=PLSJ8Ib9ydVbWa0XateD5w_0JBW6Qe8R9R)
